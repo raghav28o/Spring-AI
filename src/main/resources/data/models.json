@@ -1,0 +1,156 @@
+[
+  {
+    "company": "OpenAI",
+    "model": "GPT-5",
+    "context_window_size": 2000000
+  },
+  {
+    "company": "OpenAI",
+    "model": "GPT-40",
+    "context_window_size": 128000
+  },
+  {
+    "company": "OpenAI",
+    "model": "GPT-4.1",
+    "context_window_size": 1000000
+  },
+  {
+    "company": "OpenAI",
+    "model": "GPT-4o",
+    "context_window_size": 128000
+  },
+  {
+    "company": "OpenAI",
+    "model": "GPT-4 Turbo",
+    "context_window_size": 128000
+  },
+  {
+    "company": "OpenAI",
+    "model": "o1-preview",
+    "context_window_size": 128000
+  },
+  {
+    "company": "OpenAI",
+    "model": "GPT-3.5 Turbo",
+    "context_window_size": 16000
+  },
+
+  {
+    "company": "Anthropic",
+    "model": "Claude 3.5 Opus",
+    "context_window_size": 200000
+  },
+  {
+    "company": "Anthropic",
+    "model": "Claude 3.5 Sonnet",
+    "context_window_size": 200000
+  },
+  {
+    "company": "Anthropic",
+    "model": "Claude 3.5 Haiku",
+    "context_window_size": 200000
+  },
+
+  {
+    "company": "Google",
+    "model": "Gemini 1.5 Pro (1M tier)",
+    "context_window_size": 1000000
+  },
+  {
+    "company": "Google",
+    "model": "Gemini 1.5 Flash",
+    "context_window_size": 1000000
+  },
+  {
+    "company": "Google",
+    "model": "Gemini 2.0 Pro",
+    "context_window_size": 2000000
+  },
+  {
+    "company": "Google",
+    "model": "Gemini Nano",
+    "context_window_size": 2048
+  },
+
+  {
+    "company": "Meta",
+    "model": "LLaMA 3",
+    "context_window_size": 8192
+  },
+  {
+    "company": "Meta",
+    "model": "LLaMA 3.1 405B",
+    "context_window_size": 128000
+  },
+  {
+    "company": "Meta",
+    "model": "LLaMA 3.1 70B",
+    "context_window_size": 128000
+  },
+
+  {
+    "company": "Mistral AI",
+    "model": "Mistral Large",
+    "context_window_size": 32768
+  },
+  {
+    "company": "Mistral AI",
+    "model": "Mistral Medium",
+    "context_window_size": 32768
+  },
+  {
+    "company": "Mistral AI",
+    "model": "Mixtral 8x7B",
+    "context_window_size": 32768
+  },
+  {
+    "company": "Mistral AI",
+    "model": "Mixtral 8x22B",
+    "context_window_size": 65536
+  },
+
+  {
+    "company": "Databricks",
+    "model": "DBRX Instruct",
+    "context_window_size": 32000
+  },
+
+  {
+    "company": "AI21 Labs",
+    "model": "Jamba 1.5 Large",
+    "context_window_size": 256000
+  },
+
+  {
+    "company": "IBM",
+    "model": "Granite 3B/8B Long",
+    "context_window_size": 128000
+  },
+
+  {
+    "company": "Amazon AWS",
+    "model": "Amazon Nova Micro",
+    "context_window_size": 128000
+  },
+  {
+    "company": "Amazon AWS",
+    "model": "Amazon Nova Pro",
+    "context_window_size": 300000
+  },
+  {
+    "company": "Amazon AWS",
+    "model": "Titan Text Premier",
+    "context_window_size": 32000
+  },
+
+  {
+    "company": "Cohere",
+    "model": "Command R+",
+    "context_window_size": 128000
+  },
+  {
+    "company": "Cohere",
+    "model": "Command R",
+    "context_window_size": 128000
+  }
+]
